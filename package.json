@@ -1,0 +1,14 @@
+{
+  "name": "rollup-plugin-electron",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Fernando Roman <fer.roman92@gmail.com>",
+  "repository": "Img-Spy/rollup-plugin-electron",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "electron-connect": "^0.6.3",
+    "rollup-pluginutils": "^2.6.0",
+    "rxjs": "^6.5.2"
+  }
+}
